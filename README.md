@@ -17,7 +17,7 @@ BSc in Physics, Moscow State University (2023)
 - **Research Replications** — reproductions of selected results from leading machine learning groups  
 - **Methodological Toolkits** — calibration metrics, interpretability libraries, and evaluation pipelines  
 - **Independent Projects** — signal processing and applied machine learning experiments  
-- **Curriculum Vitae** — 
+- **Curriculum Vitae**  
 
 ---
 
