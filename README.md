@@ -27,5 +27,5 @@ BSc in Physics, Moscow State University (2023)
 ---
 
 ## Contact
-- LinkedIn: [linkedin.com/in/iuliia-vitiugova](https://www.linkedin.com/in/vitjuli/)  
+- LinkedIn: [linkedin.com/in/vitjuli](https://www.linkedin.com/in/vitjuli/)  
 - Email: iv294@cam.ac.uk  
